@@ -1,0 +1,1002 @@
+a6b,b7,b7a,DL,d1a1a,d2,MMs3,MMs5,MMs7,MMs9,MMs12,e1,k6
+Small,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Medium,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,< 1 billion ,No,No,No,No,,Local,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,,No,No,No,No,No,Local,No
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Micro,20 - 40,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Small,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,No
+Medium,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,Yes,No,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,Yes,National,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,,No,High,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,Yes,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Micro,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,No
+Small,20 - 40,No,Medium,Retail trade of ,,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Hotel or restaurant,,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,No
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Small,20 - 40,No,High,Retail trade of ,,No,No,No,Yes,No,Local,Yes
+Medium,,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 - 40,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,Yes,National,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,,No,Yes,No,Yes,No,Local,Yes
+Large,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,No,,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,40 - 60,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Micro,20 <,No,Medium,Wholesale trade of ,,No,No,No,No,No,Local,Yes
+Micro,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,Yes,No,National,Yes
+Small,20 <,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,International,Yes
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 - 40,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 - 40,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 - 40,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,Yes,No,Yes,Yes,No,International,Yes
+Small,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,Low,Hotel or restaurant,,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Large,20 - 40,No,Medium,Provide services of ,,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Large,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,No,High,Provide services of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,Yes,No,Yes,Yes,No,International,Yes
+Small,20 - 40,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 <,Yes,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,Local,No
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,No,,National,Yes
+Medium,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,No
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,Yes,No,No,No,,Local,Yes
+Large,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Micro,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Medium,40 - 60,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,No
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,Yes,No,No,Yes,No,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,No,,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,Yes,No,Local,Yes
+Medium,40 - 60,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,40 - 60,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,No
+Medium,20 <,No,High,Retail trade of ,,No,No,No,Yes,No,Local,Yes
+Medium,40 - 60,No,High,Manufacturing of ,,No,Yes,No,No,,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,Yes,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,,National,Yes
+Small,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,No
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Large,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,High,Manufacturing of ,,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,40 - 60,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,No
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,,No,No,Yes,Yes,No,Local,No
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,No
+Small,20 <,Yes,Medium,Retail trade of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,Yes,International,Yes
+Small,20 <,No,High,Provide services of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,Yes,No,Yes,Yes,No,National,Yes
+Micro,20 <,No,Low,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Large,40 - 60,Yes,High,Retail trade of ,,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Micro,20 <,No,High,Construction of,500 000 - 50 million,Yes,Yes,Yes,No,,Local,Yes
+Small,40 - 60,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,40 - 60,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,,No,No,No,No,,International,Yes
+Small,20 - 40,Yes,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,No,No,,Local,Yes
+Small,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,No
+Large,20 <,No,Medium,Provide services of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,Yes,Yes,No,No,,International,Yes
+Medium,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Large,20 <,Yes,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,No
+Small,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,Yes,No,No,,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,No
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Micro,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,No,,Local,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,No
+Small,20 <,No,High,Provide services of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,No
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,No
+Medium,20 - 40,Yes,High,Retail trade of ,< 1 billion ,Yes,No,No,No,,International,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,No
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,No
+Small,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Micro,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Micro,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,No
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Retail trade of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Small,20 - 40,Yes,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,Local,No
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Hotel or restaurant,,No,Yes,No,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 <,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,,National,Yes
+Small,20 <,No,Low,Manufacturing of ,,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,Local,Yes
+Medium,40 - 60,No,Medium,Retail trade of ,,No,No,No,Yes,No,International,Yes
+Medium,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Retail trade of ,< 1 billion ,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,No,Yes,Yes,No,National,No
+Large,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,40 - 60,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,Yes,No,Yes,No,,Local,Yes
+Small,20 - 40,Yes,Low,Retail trade of ,50 millions - 1 bilion,No,Yes,No,No,,Local,Yes
+Small,20 <,Yes,High,Construction of,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,National,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Small,20 - 40,No,Low,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,No,,National,Yes
+Small,20 - 40,No,Low,Provide services of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Provide services of ,50 millions - 1 bilion,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,Yes,Yes,No,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Construction of,,No,No,No,No,,National,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 - 40,No,Medium,Provide services of ,500 000 - 50 million,Yes,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,,No,No,No,No,No,International,Yes
+Small,20 <,Yes,High,Manufacturing of ,,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,High,Hotel or restaurant,,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Retail trade of ,,Yes,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,No
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 - 40,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,No,,Local,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,Yes,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,No
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Micro,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Micro,20 <,Yes,Low,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,No
+Micro,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,No,High,Construction of,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,No,High,Provide services of ,,No,No,No,No,No,Local,No
+Large,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Construction of,50 millions - 1 bilion,Yes,No,No,Yes,No,International,Yes
+Medium,,No,High,Provide services of ,,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Provide services of ,500 000 - 50 million,No,No,No,No,,International,Yes
+Small,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,No,,National,Yes
+Medium,20 - 40,No,High,Construction of,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Small,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,40 - 60,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,Local,Yes
+Small,40 - 60,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Medium,20 - 40,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Construction of,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,No,,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Medium,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,Yes,No,No,,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,Yes,Yes,No,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,,International,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,International,Yes
+Small,20 <,No,Low,Construction of,500 000 - 50 million,Yes,No,Yes,No,,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,International,Yes
+Large,20 - 40,No,High,Construction of,< 1 billion ,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Construction of,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Wholesale trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,No
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,No
+Medium,20 - 40,No,Low,Retail trade of ,,No,No,No,No,No,National,Yes
+Small,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,No,,Local,Yes
+Small,20 <,No,Low,Provide services of ,,No,No,No,No,No,International,No
+Small,20 <,No,Low,Retail trade of ,,No,No,No,Yes,No,Local,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Hotel or restaurant,,No,Yes,Yes,Yes,No,International,Yes
+Small,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,No,No,,Local,Yes
+Small,20 - 40,Yes,Low,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,,Local,Yes
+Small,20 <,Yes,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,Yes,No,No,Yes,No,International,Yes
+Small,20 - 40,No,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,Local,No
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,,National,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,Yes,Low,Retail trade of ,,No,No,No,No,,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 <,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Construction of,500 000 <,Yes,Yes,Yes,Yes,Yes,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,No,,Local,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Provide services of ,,No,No,No,Yes,No,National,No
+Small,20 - 40,No,Low,Wholesale trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Provide services of ,500 000 - 50 million,No,No,No,No,,National,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,,No,No,No,No,,National,Yes
+Small,20 <,Yes,Medium,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,No
+Small,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,No,,International,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,,No,Yes,No,Yes,No,International,Yes
+Small,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,Yes,National,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Low,Construction of,500 000 - 50 million,No,Yes,Yes,No,,International,Yes
+Small,20 <,No,High,Provide services of ,,Yes,Yes,Yes,Yes,Yes,National,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Retail trade of ,50 millions - 1 bilion,Yes,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,Low,Provide services of ,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,,No,Yes,Yes,Yes,Yes,Local,Yes
+Small,20 <,No,Medium,Construction of,50 millions - 1 bilion,No,Yes,Yes,No,,National,Yes
+Small,20 - 40,No,Medium,Retail trade of ,,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,Yes,Low,Retail trade of ,,Yes,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,,No,No,No,No,No,Local,
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,No
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,,No,High,Hotel or restaurant,,Yes,No,No,Yes,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,,Yes,Yes,Yes,Yes,,International,
+Small,20 - 40,No,Medium,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,Yes,No,No,No,,National,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,No,,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,Yes,Yes,No,Yes,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,Yes,No,,International,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,,No,No,No,Yes,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,No
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Small,20 <,Yes,High,Construction of,500 000 - 50 million,Yes,Yes,Yes,No,,International,Yes
+Medium,20 <,Yes,High,Wholesale trade of ,,No,No,Yes,Yes,No,International,Yes
+Medium,,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,International,Yes
+Small,20 - 40,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,International,No
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,,No,Low,Retail trade of ,500 000 <,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Construction of,50 millions - 1 bilion,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Construction of,50 millions - 1 bilion,Yes,No,No,No,,Local,Yes
+Medium,20 <,Yes,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Small,,Yes,Low,Manufacturing of ,500 000 <,No,No,No,No,,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,No,Low,Retail trade of ,,Yes,No,Yes,Yes,No,International,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,,Yes,Yes,No,Yes,No,National,Yes
+Large,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Medium,,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,,No,Yes,No,No,,International,Yes
+Medium,20 <,No,High,Manufacturing of ,,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Retail trade of ,,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,No,,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,High,Wholesale trade of ,,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,No
+Small,20 <,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Construction of,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,Yes,No,No,Yes,No,National,No
+Medium,20 <,Yes,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,No
+Small,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Construction of,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,Local,No
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 - 40,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,Yes,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,No,No,No,No,Local,No
+Small,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,No,,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Medium,,Yes,Medium,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Wholesale trade of ,500 000 - 50 million,No,Yes,No,Yes,No,International,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,No
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 <,No,Yes,No,Yes,No,International,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,No
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Wholesale trade of ,500 000 - 50 million,Yes,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,Yes,No,No,Yes,No,Local,No
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,No
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 <,Yes,High,Hotel or restaurant,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,No
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,National,No
+Small,20 <,No,Medium,Manufacturing of ,< 1 billion ,Yes,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Large,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Large,20 <,Yes,Medium,Construction of,500 000 <,No,No,No,No,No,National,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 <,Yes,No,No,Yes,No,Local,No
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Large,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,Yes,No,National,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,No,,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 <,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,Yes,No,No,Yes,No,International,No
+Large,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,Yes,Medium,Construction of,50 millions - 1 bilion,No,Yes,No,Yes,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,Yes,No,No,Yes,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,No,,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,No,,Local,No
+Small,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,Yes,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,No
+Medium,20 <,No,Medium,Wholesale trade of ,,No,No,No,No,No,International,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,Yes,No,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,International,Yes
+Small,20 <,No,Low,Manufacturing of ,,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Provide services of ,50 millions - 1 bilion,Yes,No,No,No,,National,Yes
+Large,20 <,Yes,High,Retail trade of ,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,No,,Local,Yes
+Medium,20 - 40,No,Medium,Wholesale trade of ,50 millions - 1 bilion,Yes,No,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,Yes,High,Construction of,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,Yes,Yes,Yes,No,Local,No
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,No,No,,International,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,Yes
+Small,,Yes,Low,Hotel or restaurant,,No,No,No,No,No,International,Yes
+Medium,20 <,No,High,Manufacturing of ,,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,Yes,No,Yes,No,Local,No
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,International,Yes
+Medium,40 - 60,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 - 40,No,Medium,Provide services of ,50 millions - 1 bilion,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Wholesale trade of ,,Yes,No,Yes,Yes,No,Local,Yes
+Small,,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,,International,Yes
+Large,20 <,No,High,Retail trade of ,< 1 billion ,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 <,No,High,Provide services of ,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,Local,No
+Medium,20 - 40,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Low,Provide services of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Small,20 <,No,Medium,Hotel or restaurant,,No,Yes,Yes,No,,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,No,,International,Yes
+Medium,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,Local,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,High,Construction of,50 millions - 1 bilion,No,No,Yes,No,,Local,Yes
+Large,20 <,No,High,Construction of,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,Yes,Yes,No,,National,Yes
+Medium,,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,No,No,No,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Large,20 <,No,Medium,Construction of,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,No,,Local,No
+Large,,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,,Local,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,Local,No
+Large,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,No,No,No,No,Local,No
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,No,Yes,No,,International,Yes
+Small,20 <,Yes,High,Manufacturing of ,500 000 - 50 million,Yes,Yes,No,No,,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,,No,No,No,Yes,No,International,Yes
+Medium,20 <,Yes,High,Retail trade of ,,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 <,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,No,,Local,Yes
+Medium,20 <,No,Low,Construction of,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,No,,National,Yes
+Small,20 <,No,Low,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 <,No,No,No,No,No,Local,Yes
+Large,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,High,Construction of,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,Yes,Yes,No,,Local,Yes
+Large,40 - 60,No,Medium,Provide services of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Medium,,No,High,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,No,,Local,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,No
+Small,20 <,Yes,High,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Large,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,National,No
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,No
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,No
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,,Yes,Yes,No,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,Low,Wholesale trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Large,20 - 40,No,Medium,Hotel or restaurant,< 1 billion ,No,No,No,No,No,International,Yes
+Small,20 <,Yes,High,Provide services of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,Local,Yes
+Medium,20 - 40,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Retail trade of ,500 000 - 50 million,No,Yes,No,Yes,No,International,No
+Large,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Large,20 - 40,No,Medium,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Small,20 <,No,Low,Construction of,500 000 - 50 million,No,No,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,No,No,,International,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,Yes,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Provide services of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 <,No,Yes,Yes,Yes,No,Local,Yes
+Large,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Large,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,40 - 60,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,No
+Medium,20 <,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,No
+Small,20 <,No,Low,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,Local,No
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,Yes,Yes,Yes,Yes,Yes,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 - 40,No,High,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,High,Retail trade of ,,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Construction of,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,Yes,High,Provide services of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,,Yes,No,No,Yes,No,National,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,No,High,Construction of,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Medium,20 - 40,No,Medium,Construction of,50 millions - 1 bilion,Yes,Yes,Yes,No,,International,Yes
+Medium,20 <,No,Medium,Hotel or restaurant,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,,No,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Low,Construction of,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Small,60>,No,Low,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,,Local,Yes
+Small,20 <,No,Low,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,National,No
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,No
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,,Yes,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,,No,High,Hotel or restaurant,< 1 billion ,No,No,No,Yes,No,International,Yes
+Medium,20 <,No,Medium,Provide services of ,50 millions - 1 bilion,No,No,No,No,,International,Yes
+Small,20 <,Yes,High,Hotel or restaurant,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Low,Construction of,500 000 - 50 million,Yes,No,No,No,,International,Yes
+Medium,20 - 40,No,Medium,Construction of,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 <,Yes,High,Retail trade of ,,Yes,Yes,No,Yes,No,International,Yes
+Small,20 <,No,High,Hotel or restaurant,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 <,No,Medium,Construction of,50 millions - 1 bilion,Yes,No,No,Yes,No,National,Yes
+Small,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Small,20 <,No,High,Provide services of ,,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,Yes,No,Yes,No,,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,Yes,No,No,No,,National,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,No
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,Yes,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Wholesale trade of ,,No,No,No,Yes,No,International,Yes
+Large,,No,High,Wholesale trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,Yes,No,Yes,No,,Local,No
+Medium,20 <,No,High,Wholesale trade of ,50 millions - 1 bilion,Yes,No,No,No,,Local,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,Yes,Yes,No,Yes,No,International,No
+Small,20 <,No,Low,Retail trade of ,500 000 <,No,No,Yes,Yes,No,International,Yes
+Small,20 <,No,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Medium,20 <,No,Medium,Provide services of ,50 millions - 1 bilion,No,No,No,No,,International,Yes
+Large,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,Low,Manufacturing of ,,No,No,No,No,No,Local,No
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Large,20 <,No,High,Construction of,50 millions - 1 bilion,No,No,No,No,No,Local,No
+Medium,20 - 40,No,High,Wholesale trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Small,20 <,No,High,Wholesale trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,Local,Yes
+Small,,Yes,High,Provide services of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,High,Provide services of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Large,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,No
+Large,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Low,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,Yes,Medium,Retail trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,No
+Large,20 - 40,No,Medium,Manufacturing of ,< 1 billion ,Yes,Yes,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,No,,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,,No,Yes,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,40 - 60,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,40 - 60,No,Low,Retail trade of ,,No,No,No,No,No,Local,Yes
+Medium,20 <,Yes,Medium,Manufacturing of ,,No,No,No,No,No,National,Yes
+Large,40 - 60,No,High,Manufacturing of ,< 1 billion ,No,No,Yes,Yes,No,National,Yes
+Medium,,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,High,Wholesale trade of ,50 millions - 1 bilion,No,No,Yes,Yes,No,International,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,Yes,Local,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,No
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,International,No
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Provide services of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,National,Yes
+Medium,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,20 - 40,No,High,Wholesale trade of ,,No,No,No,No,No,National,No
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Medium,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,No,,National,Yes
+Medium,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Provide services of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,Yes,National,Yes
+Medium,20 <,No,High,Retail trade of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 <,Yes,Low,Manufacturing of ,500 000 - 50 million,Yes,Yes,No,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Hotel or restaurant,500 000 - 50 million,No,No,No,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,No,No,National,Yes
+Medium,20 <,No,Low,Retail trade of ,,No,No,No,Yes,No,International,Yes
+Medium,40 - 60,No,Low,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,Yes,No,Yes,No,National,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Small,40 - 60,No,High,Retail trade of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,No,,Local,Yes
+Medium,40 - 60,No,High,Construction of,< 1 billion ,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Low,Wholesale trade of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,Yes,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,No,No,National,No
+Large,40 - 60,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Retail trade of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 <,No,No,Yes,No,,International,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Medium,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,Yes
+Small,20 <,No,Medium,Provide services of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Construction of,500 000 - 50 million,No,No,No,No,No,International,Yes
+Large,20 - 40,No,High,Provide services of ,50 millions - 1 bilion,Yes,Yes,Yes,Yes,No,National,Yes
+Medium,20 <,Yes,Medium,Provide services of ,50 millions - 1 bilion,No,No,No,No,No,International,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Small,20 <,No,Low,Retail trade of ,500 000 - 50 million,No,Yes,Yes,Yes,Yes,International,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,Yes,No,,International,Yes
+Medium,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Medium,,,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 <,No,Medium,Construction of,500 000 - 50 million,Yes,Yes,Yes,Yes,No,International,Yes
+Small,20 <,Yes,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,High,Retail trade of ,< 1 billion ,No,No,No,Yes,No,International,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,No
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Small,20 <,Yes,Medium,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Small,20 <,Yes,Medium,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,Local,Yes
+Medium,40 - 60,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Medium,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,High,Construction of,50 millions - 1 bilion,Yes,No,No,No,,International,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,< 1 billion ,No,No,No,Yes,No,National,No
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Medium,20 - 40,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Hotel or restaurant,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,Medium,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,Yes,No,Local,Yes
+Large,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Large,20 <,No,High,Hotel or restaurant,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Large,20 - 40,No,Medium,Manufacturing of ,50 millions - 1 bilion,Yes,Yes,No,Yes,Yes,Local,Yes
+Medium,20 <,Yes,Medium,Construction of,500 000 - 50 million,No,Yes,Yes,No,,International,Yes
+Medium,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,Yes,No,Yes,No,Local,Yes
+Small,20 - 40,No,High,Retail trade of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,Medium,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,National,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,No,No,,National,No
+Small,20 <,No,High,Construction of,50 millions - 1 bilion,Yes,No,No,No,,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,,No,No,No,Yes,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Small,20 <,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,International,Yes
+Small,20 - 40,No,Low,Provide services of ,,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,High,Provide services of ,500 000 - 50 million,No,Yes,Yes,Yes,No,International,Yes
+Large,20 <,No,Low,Construction of,50 millions - 1 bilion,Yes,No,No,Yes,No,International,Yes
+Large,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,National,Yes
+Medium,20 - 40,No,High,Hotel or restaurant,,No,No,No,No,No,Local,No
+Medium,20 - 40,No,High,Manufacturing of ,,No,No,Yes,No,,National,Yes
+Medium,20 <,Yes,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,Local,Yes
+Small,20 - 40,No,Low,Wholesale trade of ,,No,No,No,No,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 <,Yes,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,Yes
+Small,20 <,No,Medium,Manufacturing of ,500 000 - 50 million,Yes,Yes,Yes,Yes,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,,No,No,No,No,No,Local,Yes
+Small,20 <,No,High,Retail trade of ,500 000 - 50 million,No,No,No,No,No,Local,Yes
+Large,20 - 40,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,Yes,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,Local,Yes
+Small,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,No,No,No,National,Yes
+Small,20 - 40,No,Low,Manufacturing of ,500 000 - 50 million,No,No,No,Yes,No,Local,Yes
+Medium,20 <,No,Low,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,Yes
+Small,20 <,No,High,Provide services of ,500 000 - 50 million,No,Yes,Yes,No,,International,Yes
+Small,20 - 40,No,Medium,Retail trade of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,Local,Yes
+Small,20 <,No,Medium,Retail trade of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,Yes,No,National,No
+Large,20 - 40,No,Medium,Provide services of ,50 millions - 1 bilion,No,Yes,Yes,Yes,No,Local,Yes
+Medium,20 - 40,No,High,Manufacturing of ,500 000 - 50 million,No,No,Yes,Yes,No,Local,Yes
+Medium,,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Medium,20 <,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,Yes,Yes,No,National,Yes
+Large,20 <,No,High,Manufacturing of ,,No,No,No,No,No,National,Yes
+Medium,20 - 40,No,Medium,Wholesale trade of ,50 millions - 1 bilion,No,No,No,Yes,No,International,Yes
+Medium,20 - 40,No,High,Manufacturing of ,50 millions - 1 bilion,No,No,No,No,No,National,Yes
+Large,20 - 40,No,High,Provide services of ,< 1 billion ,No,No,No,Yes,No,Local,Yes
